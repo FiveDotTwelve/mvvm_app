@@ -1,3 +1,3 @@
-# mvvm
+# MVVM in Flutter demo
 
-A MVVVM architecture implementation.
+This is a demo project created for this article: https://fivedottwelve.com/blog/flutter-architecture-implementing-the-mvvm-pattern/
